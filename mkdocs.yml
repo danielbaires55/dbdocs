@@ -1,0 +1,10 @@
+site_name: Documentazione tecnica gruppo DB
+nav:
+  - Home: index.md
+  - OperationsDB: operations.md
+  - Pagine Sign Up e Login: sel.md
+  - 3dModelsDB: 3dmodels.md
+  - Tecnologie impiegate per la realizzazione dei database(hw e sw): tec.md
+  - NAS: nas.md
+  - File System: fs.md
+theme: readthedocs
