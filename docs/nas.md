@@ -94,7 +94,3 @@ Il NAS Synology può essere configurato e gestito attraverso diversi metodi di c
 ### Conclusione
 
 Entrambi i metodi di connessione – tramite Synology Assistant e QuickConnect – offrono un accesso semplice e sicuro al NAS Synology, con Synology Assistant ottimizzato per l'uso in rete locale e QuickConnect ideale per l'accesso remoto. Questi strumenti consentono agli utenti di sfruttare al massimo le funzionalità del NAS in modo efficiente e senza problemi tecnici complessi.
-
-### Synology Account
-
-![acc1](img/acc1.png)
