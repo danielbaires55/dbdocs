@@ -5,6 +5,11 @@ Il database chiamato **"operations"** è stato creato utilizzando MySQL per racc
 
 Abbiamo scelto MySQL perché è una tecnologia che ci è sembrata adatta alle vostre esigenze, facile da usare e pratica.
 
+#### Struttura Generale
+- **Nome del Database:** `operations`
+- **Codifica Caratteri:** UTF-8, che supporta una vasta gamma di caratteri internazionali e simboli, ideale per nomi e descrizioni accurate.
+- **Motore di Memorizzazione:** Utilizza InnoDB, che supporta transazioni sicure e garantisce l'integrità dei dati.
+
 L'obiettivo principale del database **"operations"** è di conservare i dati raccolti per facilitare l'analisi e il monitoraggio delle performance degli studenti. Ogni dato viene salvato con dettagli specifici, come:
 
 - L'identificativo dell'intervento
